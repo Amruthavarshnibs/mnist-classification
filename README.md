@@ -30,8 +30,8 @@ Evaluate the trained model's performance on the test set by plotting training/va
 
 ## PROGRAM
 
-### Name: Sowmiya N
-### Register Number: 212221230106
+### Name: Amrutha varshni 
+### Register Number: 212222040007
 ```
 import numpy as np
 from tensorflow import keras
