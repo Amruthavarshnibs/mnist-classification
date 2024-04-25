@@ -26,7 +26,7 @@ Compile and fit the model and then predict.
 
 ## PROGRAM
 
-### Name:Amrutha Varshni
+### Name:BS.Amrutha Varshni
 ### Register Number:212222040007
 
 
