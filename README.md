@@ -110,26 +110,28 @@ print(x_single_prediction)
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://github.com/janani225/mnist-classification/assets/113497333/e1e11fa1-4ed3-42b9-874d-14faa1f11a9e)
+![image](https://github.com/Amruthavarshnibs/mnist-classification/assets/119103704/9b6e6a5b-cc2d-4c24-b164-3252184d7a12)
 
-![image](https://github.com/janani225/mnist-classification/assets/113497333/4f545eba-34a5-4d68-9fdc-73daeaea5428)
-
+![image](https://github.com/Amruthavarshnibs/mnist-classification/assets/119103704/0240b1c2-914a-4fa6-98bc-004094d7cf06)
 
 ### Classification Report
 
-![Screenshot 2024-03-20 140244](https://github.com/janani225/mnist-classification/assets/113497333/5ec4d95e-cfb6-429d-a505-521ae092fc6e)
+![image](https://github.com/Amruthavarshnibs/mnist-classification/assets/119103704/3d490982-9b1a-4113-9acd-008643ecca8e)
+
 
 
 
 ### Confusion Matrix
-![image](https://github.com/janani225/mnist-classification/assets/113497333/55f7c2da-cb0a-4cfc-82bb-3d193e814486)
+![image](https://github.com/Amruthavarshnibs/mnist-classification/assets/119103704/2e7dce92-0af9-4d7a-8ccf-0f0f72622d30)
+
 
 
 
 
 ### New Sample Data Prediction
 
-![image](https://github.com/janani225/mnist-classification/assets/113497333/a8402ec3-22bd-4133-90ba-39c87b91adf4)
+![image](https://github.com/Amruthavarshnibs/mnist-classification/assets/119103704/f912f686-f012-4165-8cb2-3fc31c030c19)
+
 
 
 ## RESULT
